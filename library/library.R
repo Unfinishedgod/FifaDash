@@ -29,7 +29,7 @@ suppressMessages(library(psych))
 suppressMessages(library(scales))
 suppressMessages(library(ggpubr))
 suppressMessages(library(magick))
-# suppressMessages(library(d3heatmap))
+suppressMessages(library(d3heatmap))
 
 suppressMessages(library(rsconnect))
 suppressMessages(library(rmarkdown))
